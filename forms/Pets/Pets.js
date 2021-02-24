@@ -9,4 +9,4 @@ console.log(`The array has ${petNames.length} names in it.`)
 
 petNames.pop()
 console.log(petNames)
-console.log("New repository")
+console.log("yay")
